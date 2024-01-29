@@ -1,6 +1,6 @@
 # INFO448-BigGoButton
 
-## Details:
+## Details
 The entire screen should consist of a single pushbutton, labeled "Push Me!"
 The button should also have a green background, red text, the button text should be 40dp in size and italicized
 When I push the "Push Me!" button
