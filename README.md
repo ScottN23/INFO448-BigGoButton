@@ -1,4 +1,5 @@
 # INFO448-BigGoButton
+* Create an app that consists of nothing but a giant button filling the screen
 
 ## Details
 * The entire screen should consist of a single pushbutton, labeled "Push Me!"
